@@ -36,5 +36,3 @@ export default function ContactPage() {
     </div>
   )
 }
-
-export default function Page(){return null}

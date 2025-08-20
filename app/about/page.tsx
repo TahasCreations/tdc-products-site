@@ -8,5 +8,3 @@ export default function AboutPage() {
     </div>
   )
 }
-
-export default function Page(){return null}
