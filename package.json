@@ -27,7 +27,6 @@
     "groq": "^4.5.0",
     "lucide-react": "^0.540.0",
     "next-intl": "^4.3.4",
-    "next-sanity": "^10.0.13",
     "next-seo": "^6.8.0",
     "react-hook-form": "^7.62.0",
     "recharts": "^3.1.2",
