@@ -1,0 +1,15 @@
+﻿# Node/Next
+node_modules/
+.next/
+out/
+dist/
+.vercel/
+*.log
+# Env
+.env*
+sanity/.env*
+# OS
+.DS_Store
+Thumbs.db
+# Sanity
+sanity/node_modules/
