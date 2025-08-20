@@ -1,15 +1,10 @@
-﻿# Node/Next
-node_modules/
+﻿node_modules/
 .next/
 out/
 dist/
 .vercel/
 *.log
-# Env
 .env*
-sanity/.env*
-# OS
+sanity/node_modules/
 .DS_Store
 Thumbs.db
-# Sanity
-sanity/node_modules/
