@@ -1,4 +1,12 @@
-﻿node_modules/
+﻿.next/
+node_modules/
+.vercel/
+.DS_Store
+.env*
+public/sitemap*.xml
+public/robots.txt
+**/*.log
+node_modules/
 .next/
 out/
 dist/
